@@ -44,7 +44,6 @@ predicao-rul-motores/
 ├── notebooks/  
 │   └── Pred_motores_aeronauticos.ipynb  
 ├── README.md  
-├── requirements.txt  
 └── LICENSE
 
 ## Autor
