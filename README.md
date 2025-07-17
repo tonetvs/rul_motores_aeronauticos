@@ -49,7 +49,7 @@ predicao-rul-motores/
 ## Autor
 
 Heitor Tonet  
-Engenheiro de Controle e Automação e Cientista de Dados, com foco em aplicações industriais, mobilidade inteligente e modelagem preditiva aplicada ao mundo físico.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em manutenção preditiva industrial, especializado em modelos de RUL, detecção de falhas, séries temporais e simulações baseadas em física.
 
 ## Licença
 
